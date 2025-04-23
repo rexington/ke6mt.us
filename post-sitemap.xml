@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.ke6mt.us/</loc>
-		<lastmod>2024-03-28T17:37:36+00:00</lastmod>
+		<lastmod>2025-04-23T23:00:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.ke6mt.us/2017/06/learning-morse-code-cw/</loc>
@@ -1264,6 +1264,36 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://www.ke6mt.us/wp-content/uploads/2024/03/IMG_5681.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.ke6mt.us/2025/04/activation-in-the-snow-south-maggies-peaks-w6-ns-135/</loc>
+		<lastmod>2025-04-23T23:00:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.ke6mt.us/wp-content/uploads/2025/04/maggies-featured_c.webp</image:loc>
+			<image:title><![CDATA[maggies-featured_c]]></image:title>
+			<image:caption><![CDATA[Photo with Lake Tahoe in the background and a snowy slope in the foreground]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ke6mt.us/wp-content/uploads/2025/04/2025-03-28_11-51-14.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ke6mt.us/wp-content/uploads/2025/04/2025-03-28_13-07-36.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ke6mt.us/wp-content/uploads/2025/04/2025-03-28_13-45-10.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ke6mt.us/wp-content/uploads/2025/04/2025-03-29_10-41-04.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ke6mt.us/wp-content/uploads/2025/04/2025-03-29_12-37-47.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ke6mt.us/wp-content/uploads/2025/04/2025-03-29_12-05-55.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ke6mt.us/wp-content/uploads/2025/04/2025-03-29_12-43-45.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
